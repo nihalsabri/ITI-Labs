@@ -1,0 +1,14 @@
+D:\frontend\c#\Day3\LibrarySystem\bin\Debug\net8.0\LibrarySystem.exe
+D:\frontend\c#\Day3\LibrarySystem\bin\Debug\net8.0\LibrarySystem.deps.json
+D:\frontend\c#\Day3\LibrarySystem\bin\Debug\net8.0\LibrarySystem.runtimeconfig.json
+D:\frontend\c#\Day3\LibrarySystem\bin\Debug\net8.0\LibrarySystem.dll
+D:\frontend\c#\Day3\LibrarySystem\bin\Debug\net8.0\LibrarySystem.pdb
+D:\frontend\c#\Day3\LibrarySystem\obj\Debug\net8.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\frontend\c#\Day3\LibrarySystem\obj\Debug\net8.0\LibrarySystem.AssemblyInfoInputs.cache
+D:\frontend\c#\Day3\LibrarySystem\obj\Debug\net8.0\LibrarySystem.AssemblyInfo.cs
+D:\frontend\c#\Day3\LibrarySystem\obj\Debug\net8.0\LibrarySystem.csproj.CoreCompileInputs.cache
+D:\frontend\c#\Day3\LibrarySystem\obj\Debug\net8.0\LibrarySystem.dll
+D:\frontend\c#\Day3\LibrarySystem\obj\Debug\net8.0\refint\LibrarySystem.dll
+D:\frontend\c#\Day3\LibrarySystem\obj\Debug\net8.0\LibrarySystem.pdb
+D:\frontend\c#\Day3\LibrarySystem\obj\Debug\net8.0\LibrarySystem.genruntimeconfig.cache
+D:\frontend\c#\Day3\LibrarySystem\obj\Debug\net8.0\ref\LibrarySystem.dll

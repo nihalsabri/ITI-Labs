@@ -1,0 +1,14 @@
+D:\frontend\c#\Day6\Lab6\obj\Debug\net9.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\frontend\c#\Day6\Lab6\obj\Debug\net9.0\Lab6.AssemblyInfoInputs.cache
+D:\frontend\c#\Day6\Lab6\obj\Debug\net9.0\Lab6.AssemblyInfo.cs
+D:\frontend\c#\Day6\Lab6\obj\Debug\net9.0\Lab6.csproj.CoreCompileInputs.cache
+D:\frontend\c#\Day6\Lab6\bin\Debug\net9.0\Lab6.exe
+D:\frontend\c#\Day6\Lab6\bin\Debug\net9.0\Lab6.deps.json
+D:\frontend\c#\Day6\Lab6\bin\Debug\net9.0\Lab6.runtimeconfig.json
+D:\frontend\c#\Day6\Lab6\bin\Debug\net9.0\Lab6.dll
+D:\frontend\c#\Day6\Lab6\bin\Debug\net9.0\Lab6.pdb
+D:\frontend\c#\Day6\Lab6\obj\Debug\net9.0\Lab6.dll
+D:\frontend\c#\Day6\Lab6\obj\Debug\net9.0\refint\Lab6.dll
+D:\frontend\c#\Day6\Lab6\obj\Debug\net9.0\Lab6.pdb
+D:\frontend\c#\Day6\Lab6\obj\Debug\net9.0\Lab6.genruntimeconfig.cache
+D:\frontend\c#\Day6\Lab6\obj\Debug\net9.0\ref\Lab6.dll

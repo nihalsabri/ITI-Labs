@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\frontend\\c#\\Day5\\Lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC4B986-9688-481A-87F6-FA04B0F9A746}|Lab5.csproj|d:\\frontend\\c#\\day5\\lab5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC4B986-9688-481A-87F6-FA04B0F9A746}|Lab5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC4B986-9688-481A-87F6-FA04B0F9A746}|Lab5.csproj|d:\\frontend\\c#\\day5\\lab5\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC4B986-9688-481A-87F6-FA04B0F9A746}|Lab5.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC4B986-9688-481A-87F6-FA04B0F9A746}|Lab5.csproj|d:\\frontend\\c#\\day5\\lab5\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC4B986-9688-481A-87F6-FA04B0F9A746}|Lab5.csproj|solutionrelative:member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC4B986-9688-481A-87F6-FA04B0F9A746}|Lab5.csproj|d:\\frontend\\c#\\day5\\lab5\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC4B986-9688-481A-87F6-FA04B0F9A746}|Lab5.csproj|solutionrelative:librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC4B986-9688-481A-87F6-FA04B0F9A746}|Lab5.csproj|d:\\frontend\\c#\\day5\\lab5\\gold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC4B986-9688-481A-87F6-FA04B0F9A746}|Lab5.csproj|solutionrelative:gold.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC4B986-9688-481A-87F6-FA04B0F9A746}|Lab5.csproj|d:\\frontend\\c#\\day5\\lab5\\silver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC4B986-9688-481A-87F6-FA04B0F9A746}|Lab5.csproj|solutionrelative:silver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC4B986-9688-481A-87F6-FA04B0F9A746}|Lab5.csproj|d:\\frontend\\c#\\day5\\lab5\\bronze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC4B986-9688-481A-87F6-FA04B0F9A746}|Lab5.csproj|solutionrelative:bronze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bronze.cs",
+              "DocumentMoniker": "D:\\frontend\\c#\\Day5\\Lab5\\Bronze.cs",
+              "RelativeDocumentMoniker": "Bronze.cs",
+              "ToolTip": "D:\\frontend\\c#\\Day5\\Lab5\\Bronze.cs",
+              "RelativeToolTip": "Bronze.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:03:02.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Silver.cs",
+              "DocumentMoniker": "D:\\frontend\\c#\\Day5\\Lab5\\Silver.cs",
+              "RelativeDocumentMoniker": "Silver.cs",
+              "ToolTip": "D:\\frontend\\c#\\Day5\\Lab5\\Silver.cs",
+              "RelativeToolTip": "Silver.cs",
+              "ViewState": "AgIAAAkAAAAAzczMzMwMwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:01:28.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gold.cs",
+              "DocumentMoniker": "D:\\frontend\\c#\\Day5\\Lab5\\Gold.cs",
+              "RelativeDocumentMoniker": "Gold.cs",
+              "ToolTip": "D:\\frontend\\c#\\Day5\\Lab5\\Gold.cs",
+              "RelativeToolTip": "Gold.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:58:58.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "D:\\frontend\\c#\\Day5\\Lab5\\Librarian.cs",
+              "RelativeDocumentMoniker": "Librarian.cs",
+              "ToolTip": "D:\\frontend\\c#\\Day5\\Lab5\\Librarian.cs",
+              "RelativeToolTip": "Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:26:22.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\frontend\\c#\\Day5\\Lab5\\Member.cs",
+              "RelativeDocumentMoniker": "Member.cs",
+              "ToolTip": "D:\\frontend\\c#\\Day5\\Lab5\\Member.cs",
+              "RelativeToolTip": "Member.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:24:44.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\frontend\\c#\\Day5\\Lab5\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "D:\\frontend\\c#\\Day5\\Lab5\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwCsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:19:39.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\frontend\\c#\\Day5\\Lab5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\frontend\\c#\\Day5\\Lab5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:18:35.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\frontend\c#\Day5\Lab5\obj\Debug\net9.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+D:\frontend\c#\Day5\Lab5\obj\Debug\net9.0\Lab5.AssemblyInfoInputs.cache
+D:\frontend\c#\Day5\Lab5\obj\Debug\net9.0\Lab5.AssemblyInfo.cs
+D:\frontend\c#\Day5\Lab5\obj\Debug\net9.0\Lab5.csproj.CoreCompileInputs.cache
+D:\frontend\c#\Day5\Lab5\bin\Debug\net9.0\Lab5.exe
+D:\frontend\c#\Day5\Lab5\bin\Debug\net9.0\Lab5.deps.json
+D:\frontend\c#\Day5\Lab5\bin\Debug\net9.0\Lab5.runtimeconfig.json
+D:\frontend\c#\Day5\Lab5\bin\Debug\net9.0\Lab5.dll
+D:\frontend\c#\Day5\Lab5\bin\Debug\net9.0\Lab5.pdb
+D:\frontend\c#\Day5\Lab5\obj\Debug\net9.0\Lab5.dll
+D:\frontend\c#\Day5\Lab5\obj\Debug\net9.0\refint\Lab5.dll
+D:\frontend\c#\Day5\Lab5\obj\Debug\net9.0\Lab5.pdb
+D:\frontend\c#\Day5\Lab5\obj\Debug\net9.0\Lab5.genruntimeconfig.cache
+D:\frontend\c#\Day5\Lab5\obj\Debug\net9.0\ref\Lab5.dll

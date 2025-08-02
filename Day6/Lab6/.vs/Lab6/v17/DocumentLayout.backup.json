@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\frontend\\c#\\Day6\\Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1964FCFC-DBCC-46DE-A6A7-72BFEA829729}|Lab6.csproj|d:\\frontend\\c#\\day6\\lab6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1964FCFC-DBCC-46DE-A6A7-72BFEA829729}|Lab6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1964FCFC-DBCC-46DE-A6A7-72BFEA829729}|Lab6.csproj|d:\\frontend\\c#\\day6\\lab6\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1964FCFC-DBCC-46DE-A6A7-72BFEA829729}|Lab6.csproj|solutionrelative:librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1964FCFC-DBCC-46DE-A6A7-72BFEA829729}|Lab6.csproj|d:\\frontend\\c#\\day6\\lab6\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1964FCFC-DBCC-46DE-A6A7-72BFEA829729}|Lab6.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1964FCFC-DBCC-46DE-A6A7-72BFEA829729}|Lab6.csproj|d:\\frontend\\c#\\day6\\lab6\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1964FCFC-DBCC-46DE-A6A7-72BFEA829729}|Lab6.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1964FCFC-DBCC-46DE-A6A7-72BFEA829729}|Lab6.csproj|d:\\frontend\\c#\\day6\\lab6\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1964FCFC-DBCC-46DE-A6A7-72BFEA829729}|Lab6.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1964FCFC-DBCC-46DE-A6A7-72BFEA829729}|Lab6.csproj|d:\\frontend\\c#\\day6\\lab6\\chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1964FCFC-DBCC-46DE-A6A7-72BFEA829729}|Lab6.csproj|solutionrelative:chapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "D:\\frontend\\c#\\Day6\\Lab6\\Librarian.cs",
+              "RelativeDocumentMoniker": "Librarian.cs",
+              "ToolTip": "D:\\frontend\\c#\\Day6\\Lab6\\Librarian.cs",
+              "RelativeToolTip": "Librarian.cs",
+              "ViewState": "AgIAAA8AAADy/////x87wB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T08:40:16.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Chapter.cs",
+              "DocumentMoniker": "D:\\frontend\\c#\\Day6\\Lab6\\Chapter.cs",
+              "RelativeDocumentMoniker": "Chapter.cs",
+              "ToolTip": "D:\\frontend\\c#\\Day6\\Lab6\\Chapter.cs",
+              "RelativeToolTip": "Chapter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T08:26:33.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\frontend\\c#\\Day6\\Lab6\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "D:\\frontend\\c#\\Day6\\Lab6\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T08:02:03.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\frontend\\c#\\Day6\\Lab6\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "D:\\frontend\\c#\\Day6\\Lab6\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAABAAAAAgyszMzMwDwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:58:44.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\frontend\\c#\\Day6\\Lab6\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "D:\\frontend\\c#\\Day6\\Lab6\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAAC0AAAAAyMzMzMwuwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:57:13.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\frontend\\c#\\Day6\\Lab6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\frontend\\c#\\Day6\\Lab6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAA4GVmZmbGvwEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T07:56:26.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
